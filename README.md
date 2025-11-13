@@ -4,14 +4,14 @@
 
 ## 👨‍💻 Thông Tin Thành Viên & Nhiệm Vụ
 
-**MSSV: 2251150057** – [Nguyễn Gia Kiệt] – Lớp: KM22B  
+**MSSV: 2251120158** – [Lâm Chí Huy] – Lớp:  
 🧪 **Tester & UI/UX Designer** – Đảm bảo chất lượng sản phẩm thông qua việc kiểm thử các chức năng, đồng thời thiết kế trải nghiệm người dùng và giao diện đồ họa.  
 📱 **Android Developer** – Phát triển giao diện người dùng và logic xử lý chính trên ứng dụng di động sử dụng Jetpack Compose, làm file báo cáo bằng LaTeX.  
 
-**MSSV: 2251120073** – [Võ Tá Duy] – Lớp: CN22B  
+**MSSV: ** – [] – Lớp:   
 🖥️ **Backend Developer** – Phụ trách thiết kế và triển khai các API, quản lý cơ sở dữ liệu và logic nghiệp vụ của hệ thống backend với Spring Boot.  
 
-**MSSV: 2251120104** – [Châu Thành Phước] – Lớp: CN22B  
+**MSSV: ** – [] – Lớp: 
 🧪 **Tester & UI/UX Designer** – Đảm bảo chất lượng sản phẩm thông qua việc kiểm thử các chức năng, đồng thời thiết kế trải nghiệm người dùng và giao diện đồ họa.  
 📱 **Android Developer** – Phát triển giao diện người dùng và logic xử lý chính trên ứng dụng di động sử dụng Jetpack Compose, làm Slide thuyết trình.
 
